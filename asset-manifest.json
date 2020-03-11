@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tesolberg/robofriends/static/css/main.d0c8466c.chunk.css",
-    "main.js": "/tesolberg/robofriends/static/js/main.f2d231b4.chunk.js",
-    "main.js.map": "/tesolberg/robofriends/static/js/main.f2d231b4.chunk.js.map",
+    "main.js": "/tesolberg/robofriends/static/js/main.fcf07bab.chunk.js",
+    "main.js.map": "/tesolberg/robofriends/static/js/main.fcf07bab.chunk.js.map",
     "runtime-main.js": "/tesolberg/robofriends/static/js/runtime-main.0fc2946d.js",
     "runtime-main.js.map": "/tesolberg/robofriends/static/js/runtime-main.0fc2946d.js.map",
     "static/css/2.eb45ad44.chunk.css": "/tesolberg/robofriends/static/css/2.eb45ad44.chunk.css",
     "static/js/2.faf57d51.chunk.js": "/tesolberg/robofriends/static/js/2.faf57d51.chunk.js",
     "static/js/2.faf57d51.chunk.js.map": "/tesolberg/robofriends/static/js/2.faf57d51.chunk.js.map",
     "index.html": "/tesolberg/robofriends/index.html",
-    "precache-manifest.96872935a4efc664048033f004533776.js": "/tesolberg/robofriends/precache-manifest.96872935a4efc664048033f004533776.js",
+    "precache-manifest.dbee6621b8f30daccdecfe134850cf44.js": "/tesolberg/robofriends/precache-manifest.dbee6621b8f30daccdecfe134850cf44.js",
     "service-worker.js": "/tesolberg/robofriends/service-worker.js",
     "static/css/2.eb45ad44.chunk.css.map": "/tesolberg/robofriends/static/css/2.eb45ad44.chunk.css.map",
     "static/css/main.d0c8466c.chunk.css.map": "/tesolberg/robofriends/static/css/main.d0c8466c.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.eb45ad44.chunk.css",
     "static/js/2.faf57d51.chunk.js",
     "static/css/main.d0c8466c.chunk.css",
-    "static/js/main.f2d231b4.chunk.js"
+    "static/js/main.fcf07bab.chunk.js"
   ]
 }
